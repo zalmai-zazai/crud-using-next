@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "8916",
+      "title": "Second post",
+      "content": "This is Second [2nd] Post made from Crud app"
+    },
+    {
+      "title": "third post",
+      "content": "post is updated from edit post",
+      "id": "61b8"
+    },
+    {
+      "id": "1210",
+      "title": "3rd post",
+      "content": "This is my 3rd post"
+    }
+  ]
+}
